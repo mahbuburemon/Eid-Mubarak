@@ -7,7 +7,7 @@
 
  function countdown(){
 
-     const eventTime = new Date ("13 may 2021 07:00:00 pm");
+     const eventTime = new Date ("20 july 2021 12:00:00 am");
 
      const currentTime = new Date ();
 
